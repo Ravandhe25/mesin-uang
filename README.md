@@ -1,0 +1,2 @@
+# mesin-uang
+Uang Mengalir
